@@ -1,9 +1,0 @@
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/te-engine.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/te-renderer.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/te-shader.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/te-pipeline.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/te-asset.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/oot-mq.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/test.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/edit_cache.dir
-/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/rebuild_cache.dir
