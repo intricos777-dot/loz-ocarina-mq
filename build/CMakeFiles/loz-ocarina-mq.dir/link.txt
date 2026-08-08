@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/loz-ocarina-mq.dir/link.d "CMakeFiles/loz-ocarina-mq.dir/src/main.cpp.o" "CMakeFiles/loz-ocarina-mq.dir/src/engine_bridge.cpp.o" -o loz-ocarina-mq
