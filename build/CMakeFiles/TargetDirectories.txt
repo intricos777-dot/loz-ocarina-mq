@@ -1,0 +1,3 @@
+/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/loz-ocarina-mq.dir
+/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/edit_cache.dir
+/home/sin/Projects/loz-ocarina-mq/build/CMakeFiles/rebuild_cache.dir

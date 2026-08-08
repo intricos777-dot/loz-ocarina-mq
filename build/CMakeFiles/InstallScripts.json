@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sin/Projects/loz-ocarina-mq/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
