@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/oot-mq.dir/link.d "CMakeFiles/oot-mq.dir/src/main.cpp.o" "CMakeFiles/oot-mq.dir/src/engine_bridge.cpp.o" -o oot-mq  libte-engine.a libte-renderer.a libte-shader.a libte-pipeline.a libte-asset.a libte-engine.a
